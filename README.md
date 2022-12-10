@@ -1,13 +1,17 @@
 # FristTP
 one Step
 
-### 🗓️ Day1 기획 2022/12/10
-🔍기획 육하원칙🔍
+### 🗓️ Day1 Plan 2022/12/10
+🔍Basic 5W1H Planning🔍
 |Question|Answer|
 |:---|:---:|
-|언제?|개인시간|
-|어디서?|집|
-|누가?|나 혼자|
-|어떻게?|노트북|
-|왜?|다양한 경험이 재밌기에|
-|무엇을?|생각해보자|
+|WHEN|Life|
+|WHERE|Home|
+|WHO|Alone|
+|WHAT|WIN NoteBook|
+|WHY|It is fun to experience|
+|HOW|Hmm.. let's Thinking!|
+
+### Benefit
+Maybe my English skills improved a bit.
+Second step through the experience of this project.
