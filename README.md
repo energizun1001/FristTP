@@ -4,7 +4,7 @@ one Step
 </div>
 <div align = "left">
 🗓️> Day1 기획
-<table>
+<table background-color = "white">
 	<tr>
 		<td>언제?</td>
 		<td></td>
