@@ -1,7 +1,16 @@
 # FristTP
 <div align ="center">
 one Step
-	</div>
+</div>
+<div align = "left">
+🗓️ Day1 기획
+	<p>언제?   : </p>
+	<p>어디서? :</p>
+	<p>누가?   :</p>
+	<p>어떻게? :</p>
+	<p>왜?     :</p>
+	<p>무엇을? :</p>
+</div>
 <div align ="center">
   <p>Programing Language</p>
 </div>
