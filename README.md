@@ -4,32 +4,10 @@ one Step
 </div>
 <div align = "left">
 🗓️> Day1 기획
-<table background-color = "white">
-	<tr>
-		<td>언제?</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>어디서?</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>누가?</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>어떻게?</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>왜?</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>무엇을?</td>
-		<td></td>
-	</tr>
-</table>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 </div>
 <div align ="center">
   <p>Programing Language</p>
