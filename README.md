@@ -3,13 +3,33 @@
 one Step
 </div>
 <div align = "left">
-🗓️ Day1 기획
-	<p>언제?   : </p>
-	<p>어디서? :</p>
-	<p>누가?   :</p>
-	<p>어떻게? :</p>
-	<p>왜?     :</p>
-	<p>무엇을? :</p>
+🗓️> Day1 기획
+<table>
+	<tr>
+		<td>언제?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>어디서?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>누가?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>어떻게?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>왜?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>무엇을?</td>
+		<td></td>
+	</tr>
+</table>
 </div>
 <div align ="center">
   <p>Programing Language</p>
