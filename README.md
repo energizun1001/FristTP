@@ -1,6 +1,7 @@
 # FristTP
+<div align ="center">
 one Step
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=energizun&fontSize=30" />
+	</div>
 <div align ="center">
   <p>Programing Language</p>
 </div>
