@@ -9,7 +9,7 @@ one Step
 |왼쪽 정렬|가운데 정렬|오른쪽 정렬| 
 |:---|:---:|---:| 
 |내용1|내용2|내용3| 
-|내용1|내용2|내용3| 
+|내용1|내용2|내용3|
 <div align ="center">
   <p>Programing Language</p>
 </div>
