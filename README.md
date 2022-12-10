@@ -8,13 +8,12 @@ one Step
 |WHEN|Life|
 |WHERE|Home|
 |WHO|Alone|
-|WHAT|WIN NoteBook|
+|WHAT|Window NoteBook|
 |WHY|It is fun to experience|
 |HOW|Hmm.. let's Thinking!|
 
 ### 🤔Deeply relate 5W1H to the Project
-
-
+In Notion
 
 ## ✨Benefit
 1. Maybe my English skills improved a bit.
