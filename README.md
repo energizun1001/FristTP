@@ -4,11 +4,11 @@ one Step
 </div>
 <div align = "left">
 🗓️> Day1 기획
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 </div>
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
 <div align ="center">
   <p>Programing Language</p>
 </div>
