@@ -13,9 +13,6 @@ one Step
 |HOW|Hmm.. let's Thinking!|
 
 ### Benefit
-
 1. Maybe my English skills improved a bit.
-<br>
 2. sense of accomplishment.
-<br> 
 3. Second step through the experience of this project.
