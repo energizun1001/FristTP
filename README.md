@@ -17,6 +17,4 @@ one Step
 <br>
 2. sense of accomplishment.
 <br> 
-AND
-<br>
 3. Second step through the experience of this project.
