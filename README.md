@@ -1,10 +1,10 @@
 # FristTP
-<div align ="center">
+
 one Step
-</div>
-<div align = "left">
-🗓️> Day1 기획
-</div>
+
+
+#🗓️> Day1 기획
+
 ### [표 넣기]
 |왼쪽 정렬|가운데 정렬|오른쪽 정렬| 
 |:---|:---:|---:| 
