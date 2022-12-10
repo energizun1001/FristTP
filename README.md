@@ -1,5 +1,5 @@
-#### FristTP
+# FristTP
 
-### one Step
+## one Step
 
-# 🗓️ Day1 기획 2022/12/10
+### 🗓️ Day1 기획 2022/12/10
